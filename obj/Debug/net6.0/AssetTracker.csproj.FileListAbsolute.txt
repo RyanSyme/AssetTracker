@@ -1,0 +1,15 @@
+C:\Users\Roosticles IV\3D Objects\Lexicon\AssetTracker\obj\Debug\net6.0\AssetTracker.csproj.AssemblyReference.cache
+C:\Users\Roosticles IV\3D Objects\Lexicon\AssetTracker\obj\Debug\net6.0\AssetTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roosticles IV\3D Objects\Lexicon\AssetTracker\obj\Debug\net6.0\AssetTracker.AssemblyInfoInputs.cache
+C:\Users\Roosticles IV\3D Objects\Lexicon\AssetTracker\obj\Debug\net6.0\AssetTracker.AssemblyInfo.cs
+C:\Users\Roosticles IV\3D Objects\Lexicon\AssetTracker\obj\Debug\net6.0\AssetTracker.csproj.CoreCompileInputs.cache
+C:\Users\Roosticles IV\3D Objects\Lexicon\AssetTracker\bin\Debug\net6.0\AssetTracker.exe
+C:\Users\Roosticles IV\3D Objects\Lexicon\AssetTracker\bin\Debug\net6.0\AssetTracker.deps.json
+C:\Users\Roosticles IV\3D Objects\Lexicon\AssetTracker\bin\Debug\net6.0\AssetTracker.runtimeconfig.json
+C:\Users\Roosticles IV\3D Objects\Lexicon\AssetTracker\bin\Debug\net6.0\AssetTracker.dll
+C:\Users\Roosticles IV\3D Objects\Lexicon\AssetTracker\bin\Debug\net6.0\AssetTracker.pdb
+C:\Users\Roosticles IV\3D Objects\Lexicon\AssetTracker\obj\Debug\net6.0\AssetTracker.dll
+C:\Users\Roosticles IV\3D Objects\Lexicon\AssetTracker\obj\Debug\net6.0\refint\AssetTracker.dll
+C:\Users\Roosticles IV\3D Objects\Lexicon\AssetTracker\obj\Debug\net6.0\AssetTracker.pdb
+C:\Users\Roosticles IV\3D Objects\Lexicon\AssetTracker\obj\Debug\net6.0\AssetTracker.genruntimeconfig.cache
+C:\Users\Roosticles IV\3D Objects\Lexicon\AssetTracker\obj\Debug\net6.0\ref\AssetTracker.dll
